@@ -1,0 +1,118 @@
+.group-child3,
+.image-1-icon3 {
+  position: absolute;
+  top: 0;
+  height: 55px;
+}
+.image-1-icon3 {
+  left: 0;
+  width: 1276px;
+  object-fit: cover;
+}
+.group-child3 {
+  left: 22.93px;
+  background-color: var(--color-goldenrod);
+  width: 289.09px;
+}
+.ihc3 {
+  position: absolute;
+  top: 5px;
+  left: 47.85px;
+  display: inline-block;
+  width: 62.8px;
+  height: 44px;
+}
+.group-child4 {
+  position: absolute;
+  top: 9px;
+  left: 3.99px;
+  background-color: var(--color-gainsboro-100);
+  width: 37.88px;
+  height: 37px;
+}
+.div3 {
+  position: absolute;
+  top: 13px;
+  left: 5.98px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 32.9px;
+  height: 29px;
+}
+.group-div {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  width: 1276px;
+  height: 55px;
+  cursor: pointer;
+}
+.image-21-icon3,
+.image-22-icon3,
+.screenshot-2023-09-18-at-103312 {
+  position: absolute;
+  top: 0;
+  left: 479.87px;
+  width: 318.25px;
+  height: 188px;
+  object-fit: cover;
+}
+.image-21-icon3,
+.screenshot-2023-09-18-at-103312 {
+  left: 798.13px;
+  width: 478.88px;
+}
+.image-21-icon3 {
+  left: 0;
+  width: 477.88px;
+}
+.aloo-puri,
+.image-22-parent1 {
+  position: absolute;
+  top: 55px;
+  left: 0;
+  width: 1277px;
+  height: 188px;
+}
+.aloo-puri {
+  top: 298px;
+  left: 443px;
+  font-size: var(--font-size-45xl);
+  text-decoration: underline;
+  display: inline-block;
+  width: 304px;
+  height: 87px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.image-38-icon,
+.image-39-icon {
+  position: absolute;
+  top: 439px;
+  left: 890px;
+  width: 295px;
+  height: 197px;
+  object-fit: cover;
+}
+.image-39-icon {
+  top: 671px;
+}
+.aloo-puri-is {
+  position: absolute;
+  top: 439px;
+  left: 88px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 625px;
+}
+.macbook-pro-14-9 {
+  position: relative;
+  background-color: var(--color-mistyrose);
+  width: 100%;
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,229 @@
+.group-child5,
+.image-1-icon4 {
+  position: absolute;
+  top: 0;
+  height: 55px;
+}
+.image-1-icon4 {
+  left: 0;
+  width: 1277px;
+  object-fit: cover;
+}
+.group-child5 {
+  left: 22.95px;
+  background-color: var(--color-goldenrod);
+  width: 289.32px;
+}
+.ihc4 {
+  position: absolute;
+  top: 5px;
+  left: 47.89px;
+  display: inline-block;
+  width: 62.85px;
+}
+.group-child6 {
+  position: absolute;
+  top: 9px;
+  left: 3.99px;
+  background-color: var(--color-gainsboro-100);
+  width: 37.91px;
+  height: 37px;
+}
+.div4 {
+  position: absolute;
+  top: 13px;
+  left: 5.99px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 32.92px;
+}
+.image-1-parent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1277px;
+  height: 55px;
+  cursor: pointer;
+}
+.image-21-icon4,
+.image-22-icon4,
+.screenshot-2023-09-18-at-103316 {
+  position: absolute;
+  top: 0;
+  left: 479.87px;
+  width: 318.25px;
+  height: 208px;
+  object-fit: cover;
+}
+.image-21-icon4,
+.screenshot-2023-09-18-at-103316 {
+  left: 798.13px;
+  width: 478.88px;
+}
+.image-21-icon4 {
+  left: 0;
+  width: 477.88px;
+}
+.image-22-parent2,
+.image-27-icon {
+  position: absolute;
+  top: 55px;
+  left: 0;
+  width: 1277px;
+  height: 208px;
+}
+.image-27-icon {
+  top: 265px;
+  left: 4px;
+  width: 1273px;
+  height: 719px;
+  object-fit: cover;
+}
+.aloo-puri1 {
+  position: absolute;
+  top: 472px;
+  left: 39px;
+  cursor: pointer;
+}
+.jalebi,
+.rasmalai {
+  position: absolute;
+  top: 867px;
+  left: 1080px;
+}
+.jalebi {
+  top: 778px;
+}
+.aloo-tikki,
+.kachori,
+.kulfi,
+.petha {
+  position: absolute;
+  top: 695px;
+  left: 1080px;
+}
+.aloo-tikki,
+.kachori,
+.kulfi {
+  top: 617px;
+}
+.aloo-tikki,
+.kulfi {
+  top: 536px;
+}
+.kulfi {
+  top: 472px;
+}
+.briyani,
+.malpua,
+.pedha {
+  position: absolute;
+  top: 845px;
+  left: 715px;
+}
+.malpua,
+.pedha {
+  top: 774px;
+}
+.malpua {
+  top: 692px;
+}
+.chole-bhature,
+.samosa {
+  position: absolute;
+  top: 612px;
+  left: 716px;
+}
+.samosa {
+  top: 543px;
+  left: 715px;
+}
+.nihari,
+.pakora,
+.palak-paneer {
+  position: absolute;
+  top: 472px;
+  left: 715px;
+}
+.nihari,
+.pakora {
+  top: 815px;
+  left: 312px;
+}
+.pakora {
+  top: 745px;
+  left: 306px;
+}
+.kofta,
+.mutton-biryani {
+  position: absolute;
+  top: 680px;
+  left: 312px;
+}
+.mutton-biryani {
+  top: 612px;
+  left: 306px;
+  display: inline-block;
+  width: 330px;
+  height: 60px;
+}
+.dum-bhindi {
+  position: absolute;
+  top: 547px;
+  left: 312px;
+}
+.egg-curry,
+.korma,
+.lotpot {
+  position: absolute;
+  top: 472px;
+  left: 306px;
+}
+.korma,
+.lotpot {
+  top: 813px;
+  left: 42px;
+}
+.korma {
+  top: 751px;
+  display: inline-block;
+  width: 145px;
+  height: 49px;
+}
+.boondi,
+.litti-choka {
+  position: absolute;
+  top: 682px;
+  left: 36px;
+}
+.litti-choka {
+  top: 617px;
+}
+.chaat,
+.popular-food {
+  position: absolute;
+  top: 543px;
+  left: 39px;
+}
+.popular-food {
+  top: 303px;
+  left: 420px;
+  font-size: var(--font-size-45xl);
+  text-decoration: underline;
+  display: inline-block;
+  width: 400px;
+  height: 118px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.macbook-pro-14-8 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

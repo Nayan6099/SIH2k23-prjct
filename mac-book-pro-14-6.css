@@ -1,0 +1,140 @@
+.group-child9,
+.image-1-icon6 {
+  position: absolute;
+  top: 0;
+  height: 55px;
+}
+.image-1-icon6 {
+  left: 0;
+  width: 1277px;
+  object-fit: cover;
+}
+.group-child9 {
+  left: 22.95px;
+  background-color: var(--color-goldenrod);
+  width: 289.32px;
+}
+.ihc6 {
+  position: absolute;
+  top: 5px;
+  left: 47.89px;
+  display: inline-block;
+  width: 62.85px;
+  height: 44px;
+}
+.group-child10 {
+  position: absolute;
+  top: 9px;
+  left: 3.99px;
+  background-color: var(--color-gainsboro-100);
+  width: 37.91px;
+  height: 37px;
+}
+.div6 {
+  position: absolute;
+  top: 13px;
+  left: 5.99px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 32.92px;
+  height: 29px;
+}
+.image-1-parent3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1277px;
+  height: 55px;
+  cursor: pointer;
+  font-size: var(--font-size-17xl);
+}
+.image-21-icon6,
+.image-22-icon6,
+.screenshot-2023-09-18-at-103324 {
+  position: absolute;
+  top: 0;
+  left: 479.87px;
+  width: 318.25px;
+  height: 207px;
+  object-fit: cover;
+}
+.image-21-icon6,
+.screenshot-2023-09-18-at-103324 {
+  left: 798.13px;
+  width: 478.88px;
+}
+.image-21-icon6 {
+  left: 0;
+  width: 477.88px;
+}
+.image-22-parent4,
+.image-29-icon {
+  position: absolute;
+  top: 55px;
+  left: 0;
+  width: 1277px;
+  height: 207px;
+}
+.image-29-icon {
+  top: 262px;
+  height: 720px;
+  object-fit: cover;
+}
+.chappeli,
+.dance {
+  position: absolute;
+  top: 593px;
+  left: 844px;
+}
+.dance {
+  top: 294px;
+  left: 529px;
+  font-size: var(--font-size-45xl);
+  text-decoration: underline;
+  display: inline-block;
+  width: 220px;
+  height: 93px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.charkula-dance1 {
+  position: absolute;
+  top: 479px;
+  left: 165px;
+  cursor: pointer;
+}
+.jhora,
+.kajri {
+  position: absolute;
+  top: 479px;
+  left: 844px;
+}
+.kajri {
+  top: 899px;
+  left: 165px;
+}
+.khyal-dance,
+.ramlila,
+.raslila {
+  position: absolute;
+  top: 797px;
+  left: 165px;
+}
+.khyal-dance,
+.raslila {
+  top: 695px;
+}
+.khyal-dance {
+  top: 593px;
+}
+.macbook-pro-14-6 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

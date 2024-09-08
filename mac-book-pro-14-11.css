@@ -1,0 +1,132 @@
+.group-inner,
+.image-1-icon1 {
+  position: absolute;
+  top: 0;
+  height: 55px;
+}
+.image-1-icon1 {
+  left: 0;
+  width: 1277px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.group-inner {
+  left: 27.17px;
+  background-color: var(--color-goldenrod);
+  width: 342.56px;
+}
+.ihc1 {
+  position: absolute;
+  top: 5px;
+  left: 56.7px;
+  display: inline-block;
+  width: 74.42px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 9px;
+  left: 4.72px;
+  background-color: var(--color-gainsboro-100);
+  width: 44.89px;
+  height: 37px;
+}
+.div1 {
+  position: absolute;
+  top: 13px;
+  left: 7.09px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 38.98px;
+}
+.image-1-group,
+.image-35-icon {
+  position: absolute;
+  left: 0;
+  width: 1277px;
+}
+.image-35-icon {
+  top: 262px;
+  height: 720px;
+  object-fit: cover;
+  opacity: 0.45;
+}
+.image-1-group {
+  top: 0;
+  height: 982px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-inter);
+}
+.image-21-icon1,
+.image-22-icon1,
+.screenshot-2023-09-18-at-10334 {
+  position: absolute;
+  top: 0;
+  left: 479.87px;
+  width: 318.25px;
+  height: 207px;
+  object-fit: cover;
+}
+.image-21-icon1,
+.screenshot-2023-09-18-at-10334 {
+  left: 798.13px;
+  width: 478.88px;
+}
+.image-21-icon1 {
+  left: 0;
+  width: 477.88px;
+}
+.agra,
+.image-22-group {
+  position: absolute;
+  top: 55px;
+  left: 0;
+  width: 1277px;
+  height: 207px;
+}
+.agra {
+  top: 307px;
+  left: 547px;
+  font-size: var(--font-size-45xl);
+  text-decoration: underline;
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 181px;
+  height: 64px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.taj-mahal2 {
+  margin: 0;
+  padding-left: var(--padding-45xl);
+}
+.taj-mahal1 {
+  position: absolute;
+  top: 445px;
+  left: 475px;
+  cursor: pointer;
+}
+.agra-fort,
+.fatehpur-sikri,
+.itmad-ud-daulah {
+  position: absolute;
+  top: 761px;
+  left: 475px;
+}
+.agra-fort,
+.fatehpur-sikri {
+  top: 658px;
+}
+.agra-fort {
+  top: 548px;
+}
+.macbook-pro-14-11 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-inherit);
+  color: var(--color-black);
+  font-family: var(--font-inherit);
+}

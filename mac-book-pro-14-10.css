@@ -1,0 +1,200 @@
+.image-25-icon {
+  position: absolute;
+  top: 264px;
+  left: 0;
+  width: 1275px;
+  height: 718px;
+  object-fit: cover;
+  opacity: 0.5;
+}
+.group-child1,
+.image-1-icon2 {
+  position: absolute;
+  top: 0;
+  height: 55px;
+}
+.image-1-icon2 {
+  left: 0;
+  width: 1277px;
+  object-fit: cover;
+}
+.group-child1 {
+  left: 22.95px;
+  background-color: var(--color-goldenrod);
+  width: 289.32px;
+}
+.ihc2 {
+  position: absolute;
+  top: 5px;
+  left: 47.89px;
+  display: inline-block;
+  width: 62.85px;
+  height: 44px;
+}
+.group-child2 {
+  position: absolute;
+  top: 9px;
+  left: 3.99px;
+  background-color: var(--color-gainsboro-100);
+  width: 37.91px;
+  height: 37px;
+}
+.div2 {
+  position: absolute;
+  top: 13px;
+  left: 5.99px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 32.92px;
+  height: 29px;
+}
+.image-1-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1277px;
+  height: 55px;
+  cursor: pointer;
+  font-size: var(--font-size-17xl);
+}
+.image-21-icon2,
+.image-22-icon2,
+.screenshot-2023-09-18-at-10338 {
+  position: absolute;
+  top: 0;
+  left: 479.12px;
+  width: 317.75px;
+  height: 209px;
+  object-fit: cover;
+}
+.image-21-icon2,
+.screenshot-2023-09-18-at-10338 {
+  left: 796.88px;
+  width: 478.13px;
+}
+.image-21-icon2 {
+  left: 0;
+  width: 477.13px;
+}
+.image-22-container,
+.monuments {
+  position: absolute;
+  top: 55px;
+  left: 0;
+  width: 1275px;
+  height: 209px;
+}
+.monuments {
+  top: 299px;
+  left: 472px;
+  font-size: var(--font-size-45xl);
+  text-decoration: underline;
+  display: inline-block;
+  width: 364px;
+  height: 102px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.agra1 {
+  position: absolute;
+  top: 437px;
+  left: 97px;
+  cursor: pointer;
+}
+.sultanpur {
+  position: absolute;
+  top: 749px;
+  left: 974px;
+}
+.sitapur {
+  top: 670px;
+}
+.merrut,
+.pryagraj,
+.sitapur {
+  position: absolute;
+  left: 974px;
+}
+.pryagraj {
+  top: 591px;
+  display: inline-block;
+  width: 203px;
+  height: 58px;
+}
+.merrut {
+  top: 512px;
+}
+.mathura {
+  top: 438px;
+  left: 974px;
+}
+.lucknow,
+.mathura,
+.text {
+  position: absolute;
+}
+.text {
+  top: 828px;
+  left: 654px;
+  cursor: pointer;
+}
+.lucknow {
+  top: 749px;
+  left: 549px;
+}
+.jhansi,
+.kanpur,
+.kushinagar {
+  position: absolute;
+  top: 670px;
+  left: 525px;
+}
+.jhansi,
+.kanpur {
+  top: 591px;
+  left: 576px;
+}
+.jhansi {
+  top: 512px;
+  left: 580px;
+}
+.hastinapur,
+.varanasi {
+  position: absolute;
+  top: 437px;
+  left: 530px;
+}
+.varanasi {
+  top: 828px;
+  left: 96px;
+}
+.bareilly,
+.fatehpur-sikri2 {
+  position: absolute;
+  top: 749px;
+  left: 94px;
+}
+.bareilly {
+  top: 670px;
+}
+.aligarh,
+.ayodhya {
+  position: absolute;
+  top: 591px;
+  left: 96px;
+}
+.aligarh {
+  top: 512px;
+  left: 94px;
+}
+.macbook-pro-14-10 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
